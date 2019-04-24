@@ -1,0 +1,43 @@
+TestBP
+
+
+======================================== Generating Original Test Results ========================================
+{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+
+
+======================================== Executing Mutants ========================================
+test report: {test=}
+mutant report: {}
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{test=pass}
+  AOIS_10{test=test: 12; -1}
+  AOIS_11{test=test: 12; 3}
+  AOIS_12{test=test: 12; -1}
+  AOIS_13{test=test: 12; 3}
+  AOIS_14{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_15{test=test: 12; 3}
+  AOIS_16{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_17{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_18{test=test: 12; -1}
+  AOIS_19{test=test: 12; 11}
+  AOIS_2{test=test: 12; array lengths differed, expected.length=4 actual.length=2}
+  AOIS_20{test=test: 12; -1}
+  AOIS_21{test=test: 12; 11}
+  AOIS_22{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_23{test=test: 12; 11}
+  AOIS_24{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_25{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_26{test=test: 12; -1}
+  AOIS_27{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_28{test=test: 12; -1}
+  AOIS_29{test=test: 12; 3}
+  AOIS_3{test=test: 12; 3}
+  AOIS_30{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_31{test=test: 12; 3}
+  AOIS_32{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_33{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_34 time_out: more than 3000 seconds
+  AOIS_35{test=test: 12; array lengths differed, expected.length=4 actual.length=3}
+  AOIS_36
